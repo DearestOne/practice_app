@@ -9,7 +9,7 @@ class ANS1 extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: const Text('Grid Layout'),
-        backgroundColor: Colors.purpleAccent,
+        backgroundColor: Colors.orange,
       ),
       body: Column(
         children: [Row(
