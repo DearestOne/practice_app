@@ -4,6 +4,8 @@ import 'package:practice_app/page_answer/answer2.dart';
 import 'package:practice_app/page_answer/answer3.dart';
 import 'package:practice_app/page_answer/answer4.dart';
 
+// import is used to import the all of the answer pages to the portal page
+
 class PortalPage extends StatelessWidget {
   const PortalPage({super.key});
 
